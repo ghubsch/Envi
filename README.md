@@ -1,4 +1,4 @@
 Envi
 ====
 
-Currenctos Envi &lt;-> Cosm web interface
+Currentcost Envi &lt;-> Cosm web interface
